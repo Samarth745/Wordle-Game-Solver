@@ -1,6 +1,7 @@
 # Wordle-Game-Solver
 Wordle is a puzzle game which is published by The New York Times everyday on the website https://www.nytimes.com/games/wordle/index.html.<br />
 **Goal** To devlop a rule based model to solve your daily wordle puzzle game in 6 guesses <br />
+**Skills Used** - Python
 
 # Model
 This Model uses nltk library to import all the english words and further fliter them to 5 letter words  <br />

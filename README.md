@@ -22,8 +22,10 @@ For each input of a word there are three possible scenarios.
 * The letter is included in the word and is placed in correct place
 * The letter is included in the word and is placed incorrectly
 * The letter is not included in the word. 
-The game starts with the word STORY. <br>
+* The game starts with the word STORY. <br>
+
 With each iterations the code checks for the letter 
+
 * letters which are placed correctly which will be included in the same position while suggesting next word <br>
 * Letters which are not included will not be present in the next word <br>
 * Letters which are included but not in the write place will be shuffled in the next suggestion <br>
